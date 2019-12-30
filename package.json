@@ -1,0 +1,30 @@
+{
+  "name": "hz-react-native-video-controls",
+  "version": "1.0.2",
+  "description": "React Native Native Module Bridge Quicklock Document Viewer for IOS -Supports pdf, png, jpg, xls, ppt, doc, docx, pptx, xlx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-video",
+    "react video controls",
+    "react video player"
+  ],
+  "author": "Herbert ZHAO",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "^0.59.9",
+    "lodash": "^4.17.13",
+    "react-native-video": "^4.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herbert84/react-native-video-player.git"
+  },
+  "homepage": "https://github.com/herbert84/react-native-video-player/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/herbert84/react-native-video-player/issues"
+  }
+}
